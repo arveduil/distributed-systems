@@ -1,0 +1,7 @@
+C:\Users\pboszczy\source\repos\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe.config
+C:\Users\pboszczy\source\repos\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe
+C:\Users\pboszczy\source\repos\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.pdb
+C:\Users\pboszczy\source\repos\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csprojAssemblyReference.cache
+C:\Users\pboszczy\source\repos\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\pboszczy\source\repos\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.exe
+C:\Users\pboszczy\source\repos\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.pdb

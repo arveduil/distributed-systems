@@ -1,0 +1,11 @@
+C:\Users\pboszczy\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.deps.json
+C:\Users\pboszczy\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.json
+C:\Users\pboszczy\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.dev.json
+C:\Users\pboszczy\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.dll
+C:\Users\pboszczy\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.pdb
+C:\Users\pboszczy\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.csprojAssemblyReference.cache
+C:\Users\pboszczy\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.csproj.CoreCompileInputs.cache
+C:\Users\pboszczy\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.cache
+C:\Users\pboszczy\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
+C:\Users\pboszczy\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.dll
+C:\Users\pboszczy\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.pdb

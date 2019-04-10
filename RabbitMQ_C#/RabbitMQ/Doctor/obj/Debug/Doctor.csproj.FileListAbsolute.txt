@@ -1,0 +1,12 @@
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\bin\Debug\Doctor.exe.config
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\bin\Debug\Doctor.exe
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\bin\Debug\Doctor.pdb
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\bin\Debug\RabbitMQ.Client.dll
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\bin\Debug\RabbitMQ.Client.xml
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\obj\Debug\Doctor.csprojAssemblyReference.cache
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\obj\Debug\Doctor.csproj.CoreCompileInputs.cache
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\obj\Debug\Doctor.csproj.CopyComplete
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\obj\Debug\Doctor.exe
+C:\Users\pboszczy\source\repos\RabbitMQ\Doctor\obj\Debug\Doctor.pdb

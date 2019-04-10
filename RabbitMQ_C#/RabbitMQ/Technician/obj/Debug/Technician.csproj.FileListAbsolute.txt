@@ -1,0 +1,12 @@
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\bin\Debug\Technician.exe.config
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\bin\Debug\Technician.exe
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\bin\Debug\Technician.pdb
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\obj\Debug\Technician.csproj.CoreCompileInputs.cache
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\obj\Debug\Technician.exe
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\obj\Debug\Technician.pdb
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\bin\Debug\RabbitMQ.Client.dll
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\bin\Debug\RabbitMQ.Client.xml
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\obj\Debug\Technician.csprojAssemblyReference.cache
+C:\Users\pboszczy\source\repos\RabbitMQ\Technician\obj\Debug\Technician.csproj.CopyComplete
