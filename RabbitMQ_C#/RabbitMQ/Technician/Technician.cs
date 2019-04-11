@@ -17,9 +17,7 @@ namespace Technician
         private readonly IBasicProperties props;
         private int ID;
         private static string exchangeName1 = "abc";
-
-
-
+        private static string exchangeName2 = "abc";
 
         public Technician( string[] skills)
         {

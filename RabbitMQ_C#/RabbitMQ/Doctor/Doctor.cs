@@ -21,8 +21,7 @@ namespace Doctor
         private readonly BlockingCollection<string> respQueue = new BlockingCollection<string>();
         private readonly IBasicProperties props;
         private static string exchangeName1 = "abc";
-        private static string queueName = "huj";
-        private static string key = "routing";
+
         public Doctor()
         {
             var factory = new ConnectionFactory() { HostName = "localhost" };
@@ -51,8 +50,6 @@ namespace Doctor
                     respQueue.Add(response);
                 }
             };
-
-
         }
 
         public string Call(Request request)
@@ -66,9 +63,6 @@ namespace Doctor
 
             channel.ExchangeDeclare(exchange: exchangeName1,
                                     type: "direct");
-            channel.QueueDeclare(queue: queueName, durable: false,
-  exclusive: false, autoDelete: false, arguments: null);
-
             channel.QueueBind(type, exchangeName1, type);
             channel.BasicPublish(
                 exchange: exchangeName1,

@@ -16,13 +16,8 @@ namespace Doctor
        public static void Main(string[] args)
         {
             Doctor doc1 = new Doctor();
-            // Doctor doc2 = new Doctor(2);
-            //Request request1 = new Request("Boszcz", "knee");
-            //Request request2 = new Request("Cfel", "hip");
-            //Request request3 = new Request("Janusz", "elbow");
             if (args.Length != 2) return;
 
-            //Request request = new Request(args[0],args[1]);
 
             while(true)
             {
@@ -39,19 +34,13 @@ namespace Doctor
                     return;
                 }
             }
-
-          //  ProceedAction(doc1, request);
-             //ProceedAction(doc1, request2);
-             // ProceedAction(doc1, request3);
-
-           // Console.ReadKey();
         }
 
         private static void ProceedAction(Doctor doc1, Request request1)
         {
-            Console.WriteLine("Doctor {0} makes request {1}", doc1.ID, request1.ToString());
+            Console.WriteLine("Doctor {0} makes request {1}",  request1.ToString());
             var response = doc1.Call(request1);
-            Console.WriteLine("Doctor {0} received response: {1}", doc1.ID, response);
+            Console.WriteLine("Doctor {0} received response: {1}",  response);
         }
     }
 

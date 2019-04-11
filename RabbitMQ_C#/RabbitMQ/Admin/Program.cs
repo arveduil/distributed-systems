@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Technician
+namespace Admin
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Technician technician = new Technician(args);
-            Console.ReadKey();
         }
     }
 }

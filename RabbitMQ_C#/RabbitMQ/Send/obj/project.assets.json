@@ -4215,11 +4215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pboszczy\\source\\repos\\RabbitMQ\\Send\\Send.csproj",
+      "projectUniqueName": "C:\\Users\\pboszczy\\distributed-systems\\RabbitMQ_C#\\RabbitMQ\\Send\\Send.csproj",
       "projectName": "Send",
-      "projectPath": "C:\\Users\\pboszczy\\source\\repos\\RabbitMQ\\Send\\Send.csproj",
+      "projectPath": "C:\\Users\\pboszczy\\distributed-systems\\RabbitMQ_C#\\RabbitMQ\\Send\\Send.csproj",
       "packagesPath": "C:\\Users\\pboszczy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pboszczy\\source\\repos\\RabbitMQ\\Send\\obj\\",
+      "outputPath": "C:\\Users\\pboszczy\\distributed-systems\\RabbitMQ_C#\\RabbitMQ\\Send\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
